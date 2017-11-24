@@ -5,7 +5,7 @@ var data = {
   "result": [
     {
     "location_id" : 23,
-    "location_name" : "SP Road",
+    "location_name" : "Mysore Road",
     "location_abs" : {
       "calls" : 10,
       "tdrives" : 12,
@@ -18,7 +18,7 @@ var data = {
       {
         "info" : {
           "id" : 25,
-          "name" : "Harry Potter",
+          "name" : "R",
           "dp_url" : "http://www.example.com/harry37409.jpg",
           "abs" : {
             "calls" : 10,
