@@ -110,7 +110,7 @@ var data = {
          {
           "info": {
             "id": 25,
-            "name": "er",
+            "name": "R",
             "dp_url": "http://www.example.com/harry37409.jpg",
             "abs": {
               "calls": 10,
