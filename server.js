@@ -67,6 +67,14 @@ app.get('/bad', (req,res) => {
   });
 });
 
+app.get('/salescrm', (req,res) => {
+  res.send({
+    errorMessage:'Unable handle the request',
+    code :'PAGE_NOT_FOUND'
+  });
+});
+
+
 //Bind {second paramter is optional}
 app.listen(port, () => {
   console.log(`Server is up on port ${port}`)
