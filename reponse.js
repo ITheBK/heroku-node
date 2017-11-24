@@ -19,7 +19,7 @@ var data = {
           "info": {
             "id": 25,
             "name": "Harry Potter",
-            "dp_url": "http://www.example.com/harry37409.jpg",
+            "dp_url": "http://www.ithebk.me/images/prof.png",
             "abs": {
               "calls": 10,
               "tdrives": 12,
