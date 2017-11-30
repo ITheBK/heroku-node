@@ -4,7 +4,7 @@ var data = {"error": {},
   "result": [
     {
       "location_id": 23,
-      "location_name": "SP Doad",
+      "location_name": "Bangalore Road",
       "location_abs": {
         "calls": 10,
         "tdrives": 12,
