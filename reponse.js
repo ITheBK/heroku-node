@@ -43,9 +43,14 @@ var data = {
             "value": 143,
             "count": 1,
             "total": 143
+          },
+          {
+            "value": 20,
+            "count": 1,
+            "total": 20
           }
         ],
-        "sum": 143
+        "sum": 163
       },
       {
         "id": 5,
