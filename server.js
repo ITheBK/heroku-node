@@ -72,6 +72,11 @@ app.get('/salescrm', (req,res) => {
   res.send(data);
 });
 
+app.get('/ninjacrm', (req,res) => {
+  var {data} = require('./ninjacrm-mobile.js');
+  res.send(data);
+});
+
 
 //Bind {second paramter is optional}
 app.listen(port, () => {
