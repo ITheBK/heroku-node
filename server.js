@@ -73,6 +73,7 @@ app.get('/salescrm', (req,res) => {
 });
 
 app.get('/ninjacrm', (req,res) => {
+  console.log(JSON.stringify(req.headers))
   var {data} = require('./ninjacrm-mobile.js');
   res.send(data);
 });
